@@ -1,0 +1,6 @@
+This work was created buy Jan-Jacques Theron.
+If you are redistributing this work as a whole you need to give 
+Jan-Jacques Theron credit for its creation.
+
+This game uses Box2d so I would like to give Erin Catto recognition....
+Thank you Erin.
